@@ -9,6 +9,6 @@ https://drive.google.com/file/d/1PEeivZqCGY7VqWmeWyMPVhxAKIt5dbU-/view?usp=drive
 
 
 Images:
-![image_alt](https://github.com/e7san99/-/blob/97098190ba6c1c4ab58dd42b4baff70ab2953aaa/screen%201.png)
+![image_alt](https://github.com/e7san99/Weather-app/blob/c64df8376c30617eaa0bce9d93b91a34d6813013/google-play.png)
 ![image_alt](https://github.com/e7san99/-/blob/97098190ba6c1c4ab58dd42b4baff70ab2953aaa/screen%202.png)
 ![image_alt](https://github.com/e7san99/-/blob/97098190ba6c1c4ab58dd42b4baff70ab2953aaa/screen%203.png)
