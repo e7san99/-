@@ -3,6 +3,7 @@
 The code for this repository is not available because the application is currently in testing on Google Play for release.
 Below are pictures and release information about the application.
 
+and This project leverages Riverpod for efficient state management.
 
 Android Release Application link:
 https://drive.google.com/file/d/1PEeivZqCGY7VqWmeWyMPVhxAKIt5dbU-/view?usp=drive_link
